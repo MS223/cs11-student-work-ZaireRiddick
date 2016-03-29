@@ -1,0 +1,15 @@
+#Enter number: 10
+#9
+#8
+#7
+#6
+#5
+#4
+#3
+#2
+#1
+#BOOM
+x = 10 #This lists the range of the numbers.
+while x > 0:
+    print x #This will print the list of numbers decreasing.
+    x = x - 1 #This lowers the range from 10 to 1.
