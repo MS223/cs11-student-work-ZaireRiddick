@@ -1,0 +1,3 @@
+name = raw_input("What is your name?")
+number = raw_input("Choose any number you'd like")
+#Asking the person to guess the number after
