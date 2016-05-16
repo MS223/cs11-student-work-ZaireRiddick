@@ -1,0 +1,19 @@
+user_profile = {
+    'name': 'Zaire'
+	'school': 'Ms223'
+	'birthday': '11/06/1999'
+	'email': 'zaire.riddick@ms223.org'
+	# username(s)
+	'where are you from?': ' The Hidden Leaf Village'
+	'number of siblings': '0'
+	'skills': 'Acting, Being lazy'
+	'about you':'I like to act'
+	'favorite quote': 'You should be lazy and watch the clouds with me'
+	'favorite movie(s)': 'Dude Wheres My Car, The Hunger Games, X-Men'
+	'favorite music genre': 'EDM'
+	'favorite TV show': 'Parks and Recreation'
+	'favorite book': 'The Odyssey'
+    'favorite actor': 'Josh Hutcherson'
+    'favorite super hero': 'The Flash'
+    'favorite sport': 'Archery'
+}
