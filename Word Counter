@@ -1,0 +1,6 @@
+text_input = raw_input("Games are fun. Games are cool. Games are enjoyable.").lower()
+my_dictionary = {
+my_dictionary{Games} = text_input.count{Games}
+
+}
+#I am struggling with putting the Games into the dictionary so I can know how many times it's said
